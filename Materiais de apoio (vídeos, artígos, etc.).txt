@@ -1,0 +1,52 @@
+O que é o Git?
+https://www.youtube.com/watch?v=za5KWZ5pRag
+
+O que é Git e GitHub? (Parte 1)
+https://www.youtube.com/watch?v=DqTITcMq68k
+
+Como usar Git e GitHub? (Parte 2)
+https://www.youtube.com/watch?v=UBAX-13g8OM
+
+Como usar Git e Github na prática: Guia para iniciantes
+https://www.youtube.com/watch?v=2alg7MQ6_sI
+
+Entendendo GIT
+https://www.youtube.com/watch?v=6Czd1Yetaac
+
+Usando o Git da Forma Correta
+https://www.youtube.com/watch?v=6OokP-NE49k
+
+O que é o GitFlow?
+https://www.youtube.com/watch?v=oweffeS8TRc
+
+GitFlow:
+https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04
+https://tableless.com.br/git-flow-introducao/
+
+Padrões de Commits:
+https://sbs.t-systems.com.br/gitlab/mercedes/collab/guias/git/-/wikis/Padroniza%C3%A7%C3%A3o%20de%20Commits
+
+Documentação Oficial GitLab:
+https://docs.gitlab.com/
+
+O que são métodos ágeis?
+https://www.youtube.com/watch?v=j5mCirZD-0s
+
+Scrum: 
+https://www.youtube.com/watch?v=3aCww_1RnL0
+
+Kanban: 
+https://www.youtube.com/watch?v=qJRbAXlhJ3c
+
+Guia de Bolso sobre Metodologia Ágil na T-Systems:
+https://sbs.t-systems.com.br/gitlab/mercedes/collab/planos-de-desenvolvimento/desenvolvimento-de-software/plano-de-formacao-inicial-backend/-/blob/stable/docs/Guia-Agil-T-Systems.pdf
+
+Curso de Introdução ao DevOps
+https://desenvolvedor.io/curso-online-introducao-ao-devops
+
+CI e CD:
+https://www.youtube.com/watch?v=nI3IjYcBGiU
+
+
+
+
