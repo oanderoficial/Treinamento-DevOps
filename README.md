@@ -1,6 +1,8 @@
 # Treinamento DevOps
 
-Material para o treinamento DevOps (time operation), Git e GitLab - T-Systems 
+Responsável pelo Treinamento: Anderson B Silva (andesi3).
+
+<h2 > Materiais para o treinamento DevOps (time operation) , Git e GitLab - T-Systems </h2>
 
 Contém guias introdutórios sobre os assuntos abaixo: 
 
