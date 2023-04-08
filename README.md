@@ -1,6 +1,6 @@
 # Treinamento DevOps
 
-Material para o treinamento DevOps, Git e GitLab - T-Systems 
+Material para o treinamento DevOps (time operation), Git e GitLab - T-Systems 
 
 Contém guias introdutórios sobre os assuntos abaixo: 
 
