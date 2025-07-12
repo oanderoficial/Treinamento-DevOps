@@ -1,6 +1,6 @@
 # Treinamento DevOps
 
-Tutor Responsável pelo Treinamento: Anderson B Silva (andesi3).
+Tutor Responsável pelo Treinamento: Anderson B Silva.
 
 <h2 > Materiais para o treinamento DevOps (time operation) , Git e GitLab - T-Systems </h2>
 
